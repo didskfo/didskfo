@@ -1,6 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didskfo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didskfo)]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didskfo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didskfo)]
 
 <!--
 **didskfo/didskfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
