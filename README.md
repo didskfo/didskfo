@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-![didskfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=didskfo&show_icons=true&theme=radical)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didskfo)](https://solved.ac/didskfo)
 <!--
 **didskfo/didskfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
