@@ -28,8 +28,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didskfo)](https://solved.ac/didskfo)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={didskfo}&theme=dark)
-
+<img src="http://mazandi.herokuapp.com/api?handle={didskfo}&theme=dark"/>
 <!--
 **didskfo/didskfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
