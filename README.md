@@ -31,7 +31,7 @@
 <img src="http://mazandi.herokuapp.com/api?handle={didskfo}&theme=dark"/>
 
 ---
-![didskfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=didskfo&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didskfo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **didskfo/didskfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
